@@ -22,3 +22,12 @@ The following webfont files are bundled for use by the application.
 - Copyright: Chosun Ilbo Co., Ltd.
 - Official terms state that the Chosun Ilbo typefaces are provided free of charge to personal and corporate users and may be redistributed unchanged without charging a distribution fee.
 - Bundled file: `ChosunGu.woff`
+
+## Twemoji
+
+- Font project: https://github.com/SableClient/twemoji-font
+- Emoji artwork: https://github.com/jdecked/twemoji
+- Font software license: Apache License 2.0
+- Emoji graphics license: CC-BY 4.0
+- Bundled file: `Twemoji.woff2`
+- Local license copies: `font-licenses/Twemoji-font-LICENSE.md`, `font-licenses/Twemoji-graphics-CC-BY-4.0.txt`
