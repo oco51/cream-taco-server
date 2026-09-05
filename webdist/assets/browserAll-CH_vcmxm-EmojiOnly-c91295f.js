@@ -1,0 +1,1 @@
+import{e as i,C as e}from"./ParticleBuffer-CMB7L347-EmojiOnly-c91295f.js";import{AccessibilitySystem as t,accessibilityTarget as a,DOMPipe as m,EventSystem as r,FederatedContainer as s}from"./index-CrtSqM-7-EmojiOnly-c91295f.js";import"./webworkerAll-THWVbp4C-EmojiOnly-c91295f.js";import"./index-EmojiOnly-c91295f.js";i.add(t);i.mixin(e,a);i.add(m);i.add(r);i.mixin(e,s);
